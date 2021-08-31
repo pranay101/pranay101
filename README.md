@@ -6,8 +6,13 @@ Learning how to code better.
  - [Instagram](instagram.com/pranayprajapati_._).
  - [LinkedIn](https://www.linkedin.com/in/pranay-prajapati-ba510b185/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranay101)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay101)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/pranay101/pranay101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay101&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/pranay101/pranay101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranay101&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pranay's GitHub Stats" />
+</a>
 
 <!--
 **pranay101/pranay101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
