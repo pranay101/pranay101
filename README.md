@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-## Hey There 👋
 Learning how to code better.
 ### 📬  Get in touch
 
@@ -8,7 +7,7 @@ Learning how to code better.
  - [LinkedIn](https://www.linkedin.com/in/pranay-prajapati-ba510b185/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranay101)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay101](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
