@@ -4,12 +4,12 @@ Learning to Code Better
 ---
 ## 🛠️ Skills
 
-- **Frontend:** Html CSS, JS, ReactJs, NextJs, Angular Beginner & their various libraries
+- **Frontend:** HTML CSS, JS, ReactJs, NextJs, Angular Beginner & their various libraries
 - **Backend & APIs:** Nodejs, Django, Flask & Go
 - **Databases:** SQL & MongoDB
 - **Deployment:** Beginner in AWS, Firebase, Vercel & Heroku
 - **Working On:** Deep Learning, System Architecture Designing & Algorithms, Web3 [ethereum and solidity]
-- **Graphic Design:** Photoshop, Illustrator, Moderate Video editing & Animation
+- **Graphic Design:** Photoshop, Illustrator, Moderate Video Editing & Animation
 
 ---
 
