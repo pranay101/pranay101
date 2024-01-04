@@ -17,9 +17,8 @@ Learning to Code Better
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranay101&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
----
-## ⚡Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay101&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact)](https://github.com/pranay101/pranay101)
+--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay101&layout=compact)
 
 
 ---
