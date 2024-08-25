@@ -1,6 +1,8 @@
 # Hi There👋, I'm Pranay Prajapati
 Learning to Code Better
 [Website](https://pranay-prajapati.vercel.app/) • [Twitter](https://twitter.com/___Pranay__) • [LinkedIn](https://www.linkedin.com/in/pranay-prajapati-ba510b185/)
+
+![](https://komarev.com/ghpvc/?username=pranay101)
 ---
 ## 🛠️ Skills
 
